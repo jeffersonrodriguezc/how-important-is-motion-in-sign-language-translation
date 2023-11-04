@@ -1,6 +1,6 @@
 # How important is motion in Sign Language Translation?
 
-Code for "How important is motion in sign language translation?" submitted to IET Computer Vision
+Code for "How important is motion in sign language translation?" published by IET Computer Vision
 
 ## Graphical Abstract:
 
